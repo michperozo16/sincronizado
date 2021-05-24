@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My musica</string>
+    <string name="Textcorreo">Correo</string>
+    <string name="Textcontrase_a">Contraseña</string>
+    <string name="Textinicia_secion">INICIA SECION</string>
+    <string name="Textregistro">REGISTRO</string>
+</resources>
